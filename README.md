@@ -33,7 +33,7 @@ Note: The datasets have not been included as they are large in size.
 2. step  
 This will give us iterations of i = range(0,iteration,step)  
 
--For Random Forest, we may set the starting number of trees, and number of additional trees to be generated per iteration as follows:
+-For Random Forest, we may set the starting number of trees, and number of additional trees to be generated per iteration as follows:  
 1. B  
 2. stepb   
 This will give us (B + i*stepb) where i = range(0,iteration,step) which we defined earlier.  
