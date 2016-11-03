@@ -43,3 +43,6 @@ This will give us (B + i*stepb) where i = range(0,iteration,step) which we defin
 - For feedback to user, the loop execution number will be displayed at the start of each loop cycle.
 
 - For AdaBoost, a section for performing PCA has been provided. The user may uncomment this block and hence obtain reaults of SAMME AdaBoost performed on the PCA Data. NO other changes need to be made.
+
+The ipython notebook can be viewed at   
+http://nbviewer.jupyter.org/github/anishagartia/ensemble-learning/blob/master/RF.ipynb
