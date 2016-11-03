@@ -1,7 +1,4 @@
-README
-HW2 CS 7616
-Name: Anisha Gartia
-GTID: 903136557
+# Ensemble Learning
 
 - Following is the structure of files and folder
 	- Anisha_Gartia_HW2.zip
