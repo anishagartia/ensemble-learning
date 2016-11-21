@@ -1,6 +1,6 @@
 # Ensemble Learning
 
-- Following is the structure of files and folder
+- Following is the structure of files and folder:
 	- Anisha_Gartia_HW2.zip
 		- README
 		- HW2.pdf - description, results, plots, and discussions
